@@ -4,7 +4,7 @@ Welcome to the ALPHA TEAM 1, the pioneering group tasked with developing the lan
 
 The ALPHA TEAM 1 consists of:
 
-- Olawale Timileyin - Supervisor
+- Adesokan Muhammad-Supervisor
 - Raphael Eventus - Team Leader Back End
 - Salaudeen Sodiq - Assistant Front End
 - Ibitayo Mercy - Front End Developer
