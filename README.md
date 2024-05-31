@@ -1,3 +1,8 @@
+
+![GTTTT](https://github.com/ghreaTxx/Ghreatness-Team-Alpha1/assets/108197512/3f7746ce-51a7-4250-8bdd-a81490426f56)
+
+
+
 Welcome to the ALPHA TEAM 1, the pioneering group tasked with developing the landing page and login feed for our innovative web application. This initial project will lay the groundwork for the full-scale application, and we are excited to have a talented team on board to bring this vision to life.
 
 The ALPHA TEAM 1 consists of:
