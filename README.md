@@ -4,12 +4,16 @@ Welcome to the ALPHA TEAM 1, the pioneering group tasked with developing the lan
 
 The ALPHA TEAM 1 consists of:
 
-- Adesokan Muhammad-Supervisor
-- Raphael Eventus - Team Leader Back End
-- Salaudeen Sodiq - Assistant Front End
+--Abdulbasit - Supervisor(Back End)
+- Raphael Eventus - Back End (Team Leader)
+- Salaudeen Sodiq - Front End (Assistant)
 - Ibitayo Mercy - Front End Developer
 - Olaniyan Moyosore - Front End Developer 
-- Adekemi Timileyin - Graphic Designer 
+- Adekemi Timileyin - Graphic Designer
+-  Wonah Moses - Graphic Designer
+- Okikiola Damilare -Front End
+-  -Akingbade Similoluwa- Front End
+
 Under the guidance of Team Leader Raphael Eventus, you will be working together to design and develop a seamless user experience, leveraging the power of:
 
 - Python for back-end logic and server-side functionality
